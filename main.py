@@ -11,7 +11,7 @@ st.sidebar.markdown("""
 - Supports 33 types of diseases
 - Works for Apple, Cherry, Corn, Grape, Peach, Pepper, Potato, Strawberry, Tomato
 
-[GitHub](https://github.com/udayasri9t/leaf_Disease_Prediction)
+[GitHub](https://github.com/shukur-alom/leaf-diseases-detect)
 """)
 
 st.title("🌱 Leaf Disease Detection")
