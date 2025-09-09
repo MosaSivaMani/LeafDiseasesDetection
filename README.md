@@ -102,10 +102,5 @@ This project is open-source under the MIT License. Feel free to use, modify, and
 
 ---
 
-## 🙋‍♂️ About Me
-
-Created with passion by [Your Name].  
-📧 Reach me at: [your.email@example.com]  
-🔗 GitHub: [https://github.com/your-username](https://github.com/your-username)
 
 ---
